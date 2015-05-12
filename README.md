@@ -9,4 +9,4 @@
 
 # 更多阅读
 
-    [基于PhantomJS+Highcharts/echarts的服务器端图表渲染方案](https://github.com/billfeller/billfeller.github.io/issues/85)
+1. [基于PhantomJS+Highcharts/echarts的服务器端图表渲染方案](https://github.com/billfeller/billfeller.github.io/issues/85)
